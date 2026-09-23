@@ -1,10 +1,12 @@
 # Fayaaz Perager
 
 ### About
-Actively seeking a SOC Analyst placement. This portfolio aims to demonstrate my skills and projects, showcasing my ability to detect, analyse, and document security threats.
+Actively seeking a Cybersecurity Industrial placement. This portfolio aims to demonstrate my technical achievements and to document my personal projects.
 
 ### Education
 2nd year BSc Cybersecurity Student at Aston University.
 Achieved First (75.85%) in 1st Year.
 
 ### Projects
+## SOC Analyst Internship 
+## Sentinel SOC Home Lab
